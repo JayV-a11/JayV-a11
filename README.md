@@ -8,6 +8,7 @@
 #
 ![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayV-a11&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayV-a11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #
 ## Tecnologias que eu utilizo
 
