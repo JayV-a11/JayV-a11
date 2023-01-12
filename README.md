@@ -1,6 +1,12 @@
 ### Olá, sou o João Vitor! Seja muito bem vindo(a) ao meu GitHub! 🤖
+
+Trabalho como desenvolvedor front end a
+mais de 2 anos. Atuei fornecendo serviços
+para diversas empresas de grande renome no
+mercado, desenvolvendo os mais diversos tipos de produtos 
+
 #
-#### 🌐 Entre em contato comigo por aqui
+#### 🌐 Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-silva-barbosa-82604b214/)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosilvabarbosa04@gmail.com)
@@ -10,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayV-a11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #
-## Tecnologias que eu utilizo
+## 🖥️ Tecnologias que eu utilizo
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -22,12 +28,4 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<br/>
-
-#
-### Sobre mim:
-<br/>
-Trabalho como desenvolvedor front end a
-mais de 2 anos. Atuei fornecendo serviços
-para diversas empresas de grande renome no
-mercado, desenvolvendo os mais diversos tipos de produtos  
+<br/> 
