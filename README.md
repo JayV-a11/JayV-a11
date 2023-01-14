@@ -12,10 +12,6 @@ mercado, desenvolvendo os mais diversos tipos de produtos
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosilvabarbosa04@gmail.com)
 
 #
-![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayV-a11&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayV-a11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-#
 ## 🖥️ Tecnologias que eu utilizo
 
 <div style="display: inline_block"><br/>
