@@ -1,6 +1,6 @@
 ### Olá, sou o João Vitor! Seja muito bem vindo(a) ao meu GitHub! 🤖
 
-Trabalho como desenvolvedor front end a
+Trabalho como desenvolvedor fullstack a
 mais de 4 anos. Atuei fornecendo serviços
 para diversas empresas de grande renome, desenvolvendo os mais diversos tipos de produtos 
 
