@@ -45,16 +45,6 @@ Desenvolvedor **Fullstack** com mais de **5 anos de experiência** construindo a
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JayV-a11&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayV-a11&layout=compact&theme=default&hide_border=true" />
-</div>
-
----
-
 ## 📜 Certificações
 
 - **JSE** – Certified Entry-Level JavaScript Programmer · JS Institute · Nov/2023
