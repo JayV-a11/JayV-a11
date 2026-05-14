@@ -50,5 +50,3 @@ Desenvolvedor **Fullstack** com mais de **5 anos de experiência** construindo a
 - **JSE** – Certified Entry-Level JavaScript Programmer · JS Institute · Nov/2023
 
 ---
-
-<p align="center">Feito com foco em clareza e impacto — assim como o código que escrevo.</p>
